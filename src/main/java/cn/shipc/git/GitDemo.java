@@ -7,5 +7,6 @@ public class GitDemo {
         System.out.println("hot-fix-----01");
         System.out.println("push------commit");
         System.out.println("push------commit02");
+        System.out.println("pull-----------");
     }
 }
